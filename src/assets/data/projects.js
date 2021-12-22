@@ -23,7 +23,7 @@ export const projects = [{
     id: 4,
     name: 'Project Four',
     link:'https://petronik.github.io/dist_NextPage/',
-    img: 'https://images.unsplash.com/photo-1481487196290-c152efe083f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nzh8fHdlYiUyMGRldmVsb3BlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
+    img: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTd8fHdlYiUyMGRldmVsb3BlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
     desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, nemo?'
   },
   {
